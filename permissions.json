@@ -1,0 +1,108 @@
+{
+    "error": false,
+    "code": 200,
+    "message": "Permission list got successfully.",
+    "indicate": "OK",
+    "data": {
+        "count": 10,
+        "limit": 10,
+        "page": 1,
+        "range": [
+            1,
+            10
+        ],
+        "rows": [
+            {
+                "id": 5,
+                "name": "Create New",
+                "slug": "create-new",
+                "status": true,
+                "createdAt": "2025-04-19T17:21:46.794Z",
+                "updatedAt": "2025-04-19T17:21:46.794Z",
+                "deletedAt": null
+            },
+            {
+                "id": 7,
+                "name": "Delete Existing",
+                "slug": "delete-existing",
+                "status": true,
+                "createdAt": "2025-04-19T17:21:46.794Z",
+                "updatedAt": "2025-04-19T17:21:46.794Z",
+                "deletedAt": null
+            },
+            {
+                "id": 9,
+                "name": "Download List",
+                "slug": "download-list",
+                "status": true,
+                "createdAt": "2025-04-19T17:21:46.794Z",
+                "updatedAt": "2025-04-19T17:21:46.794Z",
+                "deletedAt": null
+            },
+            {
+                "id": 8,
+                "name": "Download Single Details",
+                "slug": "download-single-details",
+                "status": true,
+                "createdAt": "2025-04-19T17:21:46.794Z",
+                "updatedAt": "2025-04-19T17:21:46.794Z",
+                "deletedAt": null
+            },
+            {
+                "id": 3,
+                "name": "Drop-down List",
+                "slug": "drop-downList",
+                "status": true,
+                "createdAt": "2025-04-19T17:21:46.794Z",
+                "updatedAt": "2025-04-19T17:21:46.794Z",
+                "deletedAt": null
+            },
+            {
+                "id": 1,
+                "name": "Full Access",
+                "slug": "full-access",
+                "status": true,
+                "createdAt": "2025-04-19T17:21:46.794Z",
+                "updatedAt": "2025-04-19T17:21:46.794Z",
+                "deletedAt": null
+            },
+            {
+                "id": 11,
+                "name": "Full Deny",
+                "slug": "full-deny",
+                "status": true,
+                "createdAt": "2025-04-19T17:21:46.794Z",
+                "updatedAt": "2025-04-19T17:21:46.794Z",
+                "deletedAt": null
+            },
+            {
+                "id": 2,
+                "name": "List View",
+                "slug": "list-view",
+                "status": true,
+                "createdAt": "2025-04-19T17:21:46.794Z",
+                "updatedAt": "2025-04-19T17:21:46.794Z",
+                "deletedAt": null
+            },
+            {
+                "id": 10,
+                "name": "Manage Columns",
+                "slug": "manage-columns",
+                "status": true,
+                "createdAt": "2025-04-19T17:21:46.794Z",
+                "updatedAt": "2025-04-19T17:21:46.794Z",
+                "deletedAt": null
+            },
+            {
+                "id": 12,
+                "name": "Others",
+                "slug": "others",
+                "status": true,
+                "createdAt": "2025-04-19T17:21:46.794Z",
+                "updatedAt": "2025-04-19T17:21:46.794Z",
+                "deletedAt": null
+            }
+        ],
+        "total": 12
+    }
+}
